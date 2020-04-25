@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+e+5oSGfck7GHSJDtexfNYX4Menp/SNC70LkyaGVaJpjShDjGduSyLIlI8EjIBlktYlZuue/6APpZbuanuR4iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\enderuser\\Source\\repos\\BlazorApp1\\BlazorEntity\\BlazorEntity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enderuser\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\enderuser\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

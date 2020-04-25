@@ -1,0 +1,9 @@
+C:\Users\enderuser\Source\repos\BlazorApp1\BlazorEntity\bin\Debug\netstandard2.0\BlazorEntity.deps.json
+C:\Users\enderuser\Source\repos\BlazorApp1\BlazorEntity\bin\Debug\netstandard2.0\BlazorEntity.dll
+C:\Users\enderuser\Source\repos\BlazorApp1\BlazorEntity\bin\Debug\netstandard2.0\BlazorEntity.pdb
+C:\Users\enderuser\Source\repos\BlazorApp1\BlazorEntity\obj\Debug\netstandard2.0\BlazorEntity.csprojAssemblyReference.cache
+C:\Users\enderuser\Source\repos\BlazorApp1\BlazorEntity\obj\Debug\netstandard2.0\BlazorEntity.csproj.CoreCompileInputs.cache
+C:\Users\enderuser\Source\repos\BlazorApp1\BlazorEntity\obj\Debug\netstandard2.0\BlazorEntity.AssemblyInfoInputs.cache
+C:\Users\enderuser\Source\repos\BlazorApp1\BlazorEntity\obj\Debug\netstandard2.0\BlazorEntity.AssemblyInfo.cs
+C:\Users\enderuser\Source\repos\BlazorApp1\BlazorEntity\obj\Debug\netstandard2.0\BlazorEntity.dll
+C:\Users\enderuser\Source\repos\BlazorApp1\BlazorEntity\obj\Debug\netstandard2.0\BlazorEntity.pdb

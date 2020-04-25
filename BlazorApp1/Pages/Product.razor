@@ -1,0 +1,42 @@
+﻿@page "/product"
+
+
+<h3>Product</h3>
+
+@using BlazorEntity;
+@using BlazorDataAccess;
+
+@inject IProductManager _productManager
+
+
+<h2>Products</h2>
+
+@if (products != null)
+{
+    @foreach (BlazorEntity.Product product in products)
+    {
+        <label>@product.ProductId</label>
+        <br />
+        <label>@product.ProductName</label>
+        <br />
+        <label>@product.ProductDescription</label>
+        <br />
+        <label>@product.ProductImagePath</label>
+        <br />
+    }
+}
+
+
+
+
+@code {
+
+    private List<BlazorEntity.Product> products;
+
+    protected override async Task OnInitializedAsync()
+    {
+        products = await _productManager.GetProducts();
+    }
+
+
+}

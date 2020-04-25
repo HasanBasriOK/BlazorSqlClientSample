@@ -1,0 +1,12 @@
+C:\Users\enderuser\Source\repos\BlazorApp1\BlazorDataAccess\bin\Debug\netstandard2.0\BlazorEntity.dll
+C:\Users\enderuser\Source\repos\BlazorApp1\BlazorDataAccess\obj\Debug\netstandard2.0\BlazorDataAccess.csprojAssemblyReference.cache
+C:\Users\enderuser\Source\repos\BlazorApp1\BlazorDataAccess\obj\Debug\netstandard2.0\BlazorDataAccess.AssemblyInfoInputs.cache
+C:\Users\enderuser\Source\repos\BlazorApp1\BlazorDataAccess\obj\Debug\netstandard2.0\BlazorDataAccess.AssemblyInfo.cs
+C:\Users\enderuser\Source\repos\BlazorApp1\BlazorDataAccess\bin\Debug\netstandard2.0\BlazorDataAccess.deps.json
+C:\Users\enderuser\Source\repos\BlazorApp1\BlazorDataAccess\bin\Debug\netstandard2.0\BlazorDataAccess.dll
+C:\Users\enderuser\Source\repos\BlazorApp1\BlazorDataAccess\bin\Debug\netstandard2.0\BlazorDataAccess.pdb
+C:\Users\enderuser\Source\repos\BlazorApp1\BlazorDataAccess\bin\Debug\netstandard2.0\BlazorEntity.pdb
+C:\Users\enderuser\Source\repos\BlazorApp1\BlazorDataAccess\obj\Debug\netstandard2.0\BlazorDataAccess.csproj.CopyComplete
+C:\Users\enderuser\Source\repos\BlazorApp1\BlazorDataAccess\obj\Debug\netstandard2.0\BlazorDataAccess.dll
+C:\Users\enderuser\Source\repos\BlazorApp1\BlazorDataAccess\obj\Debug\netstandard2.0\BlazorDataAccess.pdb
+C:\Users\enderuser\Source\repos\BlazorApp1\BlazorDataAccess\obj\Debug\netstandard2.0\BlazorDataAccess.csproj.CoreCompileInputs.cache
